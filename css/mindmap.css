@@ -1,0 +1,119 @@
+.Map{
+  position : relative;
+  background: url(../img/background.jpg) no-repeat;
+  background-size : 1000px 700px;
+  width : 1000px;
+  height : 700px;
+  margin : 0 auto;
+}
+
+.Map__muscle {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 70px;
+  right : 90px;
+  /*背景色つける*/
+  background-color : red;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+
+}
+.Map__drive {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 460px;
+  right : 90px;
+  /*背景色つける*/
+  background-color : red;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__eye {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 500px;
+  right : 60px;
+  /*背景色つける*/
+  background-color : red;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+
+}
+.Map__picture {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 530px;
+  right : 270px;
+  /*背景色つける*/
+  background-color : red;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__777interactive {
+  position : absolute;
+  width : 140px;
+  height : 30px;
+  top : 645px;
+  right : 270px;
+  /*背景色つける*/
+  background-color : blue;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__intern {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 640px;
+  left : 235px;
+  /*背景色つける*/
+  background-color : blue;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__companyWork {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 555px;
+  left : 190px;
+  /*背景色つける*/
+  background-color : blue;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__biohack {
+  position : absolute;
+  width : 80px;
+  height : 30px;
+  top : 550px;
+  left : 35px;
+  /*背景色つける*/
+  background-color : red;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
+.Map__codingLecture {
+  position : absolute;
+  width : 100px;
+  height : 30px;
+  top : 582px;
+  left : 35px;
+  /*背景色つける*/
+  background-color : blue;
+  filter:alpha(opacity=10);
+  -moz-opacity: 0.1;
+  opacity: 0.1;
+}
